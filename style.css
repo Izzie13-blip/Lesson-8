@@ -1,0 +1,39 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: line-through;
+}
+h2{
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-align: center;
+}
+h3{
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-align: right;
+}
+
+h4{
+   text-transform: capitalize; 
+   text-decoration: overline underline;
+   text-align: left;
+}
+
+h1{
+text-shadow: 2px 2px greenyellow;
+box-shadow: 2px 2px 40px powderblue;
+}
+
+#d1{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+    transform: rotateX(180deg);
+}
+
+#d2{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    transform: rotateY(180deg);
+}
